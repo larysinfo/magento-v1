@@ -1,0 +1,12 @@
+<div class="block">
+    <div class="block-title"><strong><span>Main Features</span></strong></div>
+    <div class="block-content">
+<ul class="features">
+    <li><i class="icon-ok theme-color"></i><a href="#">Super Fast Magento Theme</a></li>
+    <li><i class="icon-ok  theme-color"></i><a href="#">1st Fully working Ajax Theme</a></li>
+    <li><i class="icon-ok  theme-color"></i><a href="#">10 Unique Homepage Layouts</a></li>
+    <li><i class="icon-ok  theme-color"></i><a href="#">Powerful Admin Panel</a></li>
+    <li><i class="icon-ok  theme-color"></i><a href="#">Mobile &amp; Retina Optimized</a></li>
+</ul>
+</div>
+</div>

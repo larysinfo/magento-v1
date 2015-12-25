@@ -1,0 +1,13 @@
+<div class="block">
+    <div class="block-title"><strong><span>My Account</span></strong></div>
+
+    <div class="block-content">
+<ul class="links">
+    <li><i class="icon-right-dir theme-color"></i><a href="http://localhost/magento-v1/about-porto" title="About us">About us</a></li>
+    <li><i class="icon-right-dir theme-color"></i><a href="http://localhost/magento-v1/contacts" title="Contact us">Contact us</a></li>
+    <li><i class="icon-right-dir theme-color"></i><a href="http://localhost/magento-v1/customer/account" title="My account">My account</a></li>
+    <li><i class="icon-right-dir theme-color"></i><a href="http://localhost/magento-v1/sales/order/history" title="Orders history">Orders history</a></li>
+    <li><i class="icon-right-dir theme-color"></i><a href="http://localhost/magento-v1/catalogsearch/advanced" title="Advanced search">Advanced search</a></li>
+</ul>
+</div>
+</div>
